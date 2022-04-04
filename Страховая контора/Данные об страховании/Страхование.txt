@@ -1,0 +1,14 @@
+Данные о пользователе
+Фамилия:System.Windows.Forms.TextBox, Text: П
+Имя:System.Windows.Forms.TextBox, Text: п
+Дата рожденияSystem.Windows.Forms.DateTimePicker, Value: 04.04.2022 9:44:36
+Пол:Муж
+Адрес
+Город:System.Windows.Forms.TextBox, Text: п
+Адрес:System.Windows.Forms.TextBox, Text: п
+Дом:System.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+квSystem.Windows.Forms.NumericUpDown, Minimum = 0, Maximum = 100
+Вид страхования
+Вид страхования:System.Windows.Forms.DomainUpDown, Items.Count: 4, SelectedIndex: -1
+Срок страхования
+Срок страхования:System.Windows.Forms.DomainUpDown, Items.Count: 6, SelectedIndex: -1
